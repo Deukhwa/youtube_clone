@@ -18,8 +18,9 @@ const SearchHeader = ({ onSearch }) => {
   return (
     <header className={styles.header}>
       <div className={styles.logo}>
-        {' '}
-        <img className={styles.img} src="/images/logo.png" alt="youtube" />
+        <a href="">
+          <img className={styles.img} src="/images/logo.png" alt="youtube" />{' '}
+        </a>
         <h1 className={styles.title}>Youtube</h1>
       </div>
 
