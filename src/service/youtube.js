@@ -31,7 +31,7 @@ class Youtube {
         part: 'snippet',
         maxResults: 25,
         q: query,
-        type: video,
+        type: 'video',
       },
     })
     return response.data.items
