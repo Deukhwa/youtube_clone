@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Deukhwa/youtube_clone/static/css/main.6accd8ce.css",
+    "main.js": "/Deukhwa/youtube_clone/static/js/main.afef86ca.js",
+    "index.html": "/Deukhwa/youtube_clone/index.html",
+    "main.6accd8ce.css.map": "/Deukhwa/youtube_clone/static/css/main.6accd8ce.css.map",
+    "main.afef86ca.js.map": "/Deukhwa/youtube_clone/static/js/main.afef86ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6accd8ce.css",
+    "static/js/main.afef86ca.js"
+  ]
+}
